@@ -1,8 +1,8 @@
-# Basic React
+# Blog React
 
 ## Description
 
-Basic structure of React app. 
+A mini blog made with React for educational purposes. 
 
 ## Getting Started
 
